@@ -1,0 +1,1 @@
+KaribuStay is a web-based platform that allows users to browse and book houses, villas, or apartments for short-term stays. It includes functionalities for both guests and administrators to manage bookings, properties, and user accounts.
